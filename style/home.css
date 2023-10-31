@@ -1,0 +1,23 @@
+.nav_home .container{
+    display: inline-flex;
+    
+}
+.nav_home .container .home_logo{
+    display: inline-flex;
+}
+.nav_home .container .sologan::before{
+    color: blue;
+    display: inline-flex;
+}
+.nav_home .container .menu{
+}
+.nav_home .container .menu .home_menu{
+    display: inline-flex;
+    background-color: green;
+    color: white;
+    gap: 40px;
+}
+.nav_home .container .menu .home_menu li{
+    display: inline-block;
+    
+}
